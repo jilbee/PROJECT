@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782090029818,
+      "tag": "0000_lame_gamma_corps",
+      "breakpoints": true
+    }
+  ]
+}
